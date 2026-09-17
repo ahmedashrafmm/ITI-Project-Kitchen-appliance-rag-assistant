@@ -196,7 +196,6 @@ and `k=3` retrieval — see the notebook for full analysis.
 ![Chat view](docs/screenshots/chat-view.png)
 ![Vision detection](docs/screenshots/vision-detection.png)
 ![Grounded answer with citation](docs/screenshots/grounded-answer.png)
-sidebar) here before submitting._
 
 ## Common Pitfalls Avoided
 
