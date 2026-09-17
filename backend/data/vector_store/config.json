@@ -1,0 +1,9 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "chunk_size": 800,
+  "chunk_overlap": 150,
+  "vector_store_path": "/home/shifo/Downloads/rag-assistant-project/backend/data/vector_store",
+  "collection_name": "appliance_manuals",
+  "ollama_model": "llama3.2",
+  "num_chunks": 40
+}

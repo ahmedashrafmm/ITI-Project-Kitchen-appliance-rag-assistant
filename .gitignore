@@ -1,0 +1,28 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+!frontend/.env.example
+!backend/.env.example
+
+# Logs
+*.log
+
+# Vector store (rebuild via notebook, or keep if small — this project's is small enough to commit)
+# backend/data/vector_store/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# YOLO weights (auto-downloaded, ~6MB, but excluded to keep repo clean)
+*.pt
+
+# Raw image dataset if large
+data/images/*
+!data/images/.gitkeep
